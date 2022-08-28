@@ -1,0 +1,8 @@
+@media screen and (max-width: 300px) {
+  /* .body {background: red;} */
+}
+
+p,h6{
+  color: rgba(0, 0, 0, 0.8) ;
+  text-align: center;
+}
